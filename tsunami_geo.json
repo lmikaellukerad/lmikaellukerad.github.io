@@ -1,0 +1,523 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4238386,
+                    34.3227567
+                ]
+            },
+            "properties": {
+                "text": "Kodiak High School being designated as an evacuation site for today's #tsunami which is approaching #Kodiak, Alaska\u2026 https://t.co/ARZxIjHQyI",
+                "created_at": "Tue Jan 23 10:30:14 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Tsunami\n\u2489 Kodiak\n\u248a Hugh Masekela\n\u248b #WEF18\n\u248c Secret Society\n\u248d Alaska and British Columbia\n\u248e Cilic\n\u248f Neil Diamond\u2026 https://t.co/dLxxaHCjWK",
+                "created_at": "Tue Jan 23 10:40:11 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.156,
+                    32.7153
+                ]
+            },
+            "properties": {
+                "text": "Umm #tsunami \ud83d\ude44\ud83c\udf0a @ San Diego, California https://t.co/EowM4OJ1h4",
+                "created_at": "Tue Jan 23 10:41:07 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.369,
+                    48.4329
+                ]
+            },
+            "properties": {
+                "text": "#tsunami is now trending in #Victoria\n\nhttps://t.co/vET4LHu9Zl https://t.co/oHRSW387P0",
+                "created_at": "Tue Jan 23 10:41:51 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4238386,
+                    34.3227567
+                ]
+            },
+            "properties": {
+                "text": "\"You do not have time to mess around. Get as high as you possibly can,\" @KmxtNews anchor pleads with residents of K\u2026 https://t.co/pbmmpH4nGk",
+                "created_at": "Tue Jan 23 10:42:20 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.207,
+                    -33.8671
+                ]
+            },
+            "properties": {
+                "text": "#tsunami is now trending in Australia\n\nhttps://t.co/lvsrXzoZuN https://t.co/yqPPJAGLuc",
+                "created_at": "Tue Jan 23 10:53:03 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.826,
+                    21.309
+                ]
+            },
+            "properties": {
+                "text": "Stay safe Hawaii \n.\n#hawaii #honolulu #tsunami #tsunamiwarning #staysafe @ Honolulu, Hawaii https://t.co/OODDqrlpu6",
+                "created_at": "Tue Jan 23 10:56:09 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6483,
+                    -33.4569
+                ]
+            },
+            "properties": {
+                "text": "#tsunami es ahora una tendencia en #Santiago\n\nhttps://t.co/lgDpEHPaGT https://t.co/rL4fG8UAqU",
+                "created_at": "Tue Jan 23 11:01:48 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.309,
+                    56.9547
+                ]
+            },
+            "properties": {
+                "text": "Trend Alert: #tsunami. More trends at https://t.co/SHjd3tkINE #trndnl https://t.co/HW8KlTRMQp",
+                "created_at": "Tue Jan 23 11:12:09 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4238386,
+                    34.3227567
+                ]
+            },
+            "properties": {
+                "text": "\"Don't go waltzing off to your homes yet,\" @KmxtNews anchor pleads with residents of #Kodiak, #Alaska, as #tsunami warning still in effect.",
+                "created_at": "Tue Jan 23 11:22:53 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18814,
+                    45.4637
+                ]
+            },
+            "properties": {
+                "text": "#tsunami \u00e8 ormai una tendenza in Italy\n\nhttps://t.co/zKJeYmBQV4 https://t.co/ucwDTTbXOs",
+                "created_at": "Tue Jan 23 11:36:58 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Tsunami\n\u2489 Kodiak\n\u248a #WEF18\n\u248b Hugh Masekela\n\u248c Cilic\n\u248d Alaska and British Columbia\n\u248e #bfc530\n\u248f Secret Society\n\u2490 Low\u2026 https://t.co/CMZKId44tk",
+                "created_at": "Tue Jan 23 11:40:10 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.309,
+                    56.9547
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #tsunami\n\u2489 Alaska\n\u248a Commission\n\u248b #nbstorm\n\u248c #otttraffic\n\u248d #DoritosKetchupDrop\n\u248e Parry Sound\n\u248f #WEF18\n\u2490 Amazon Go\u2026 https://t.co/EJMfl9cI1D",
+                "created_at": "Tue Jan 23 11:40:10 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8048,
+                    21.0285
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #AFCU23\n\u2489 Alaska\n\u248a #Tsunami\n\u248b Hugh Masekela\n\u248c #RIPHughMasekela\n\u248d #earthquake\n\u248e #IndiaMeansBusiness\n\u248f Kodiak\n\u2490 Bri\u2026 https://t.co/3itp7NxiYn",
+                "created_at": "Tue Jan 23 11:40:18 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.4289,
+                    18.2233
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Bad Bunny\n\u2489 Alaska\n\u248a #Tsunami\n\u248b Hugh Masekela\n\u248c #RIPHughMasekela\n\u248d #earthquake\n\u248e #IndiaMeansBusiness\n\u248f\u2026 https://t.co/rKHih1a561",
+                "created_at": "Tue Jan 23 11:40:19 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.243,
+                    34.0522
+                ]
+            },
+            "properties": {
+                "text": "Stay safe everyone. I'm ok. #tsunami #earthquake #Alaska #westcoast #9.2 \ud83d\ude31\ud83d\ude4f @ Los Angeles,\u2026 https://t.co/r1gSSoG0Z6",
+                "created_at": "Tue Jan 23 11:40:58 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.766,
+                    -36.8474
+                ]
+            },
+            "properties": {
+                "text": "#tsunami is now trending in New Zealand\n\nhttps://t.co/409Bmfrwze https://t.co/9Mhm0lC1A5",
+                "created_at": "Tue Jan 23 11:50:21 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.469682,
+                    43.04504505
+                ]
+            },
+            "properties": {
+                "text": "@OakFoSho: You are a total dick. #tsunami https://t.co/7lKqT4KIfX #MorningJoe",
+                "created_at": "Tue Jan 23 11:52:50 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3412,
+                    48.8569
+                ]
+            },
+            "properties": {
+                "text": "#tsunami just started trending with 23156 tweets. More trends at https://t.co/iQIQ3mQZoL #trndnl",
+                "created_at": "Tue Jan 23 12:08:50 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70325,
+                    40.4167
+                ]
+            },
+            "properties": {
+                "text": "#tsunami es ahora una tendencia en Spain\n\nhttps://t.co/Fmvo3avOPG https://t.co/UVDGjLDgMJ",
+                "created_at": "Tue Jan 23 12:16:14 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Tsunami\n\u2489 Kodiak\n\u248a Nadal\n\u248b #WEF18\n\u248c Hugh Masekela\n\u248d #WhenTheMeetingGoesTooLong\n\u248e #NationalPieDay\n\u248f Secret Societ\u2026 https://t.co/ULKLkz1an0",
+                "created_at": "Tue Jan 23 12:20:09 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.309,
+                    56.9547
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #tsunami\n\u2489 Alaska\n\u248a Commission\n\u248b #ottweather\n\u248c #TEMP\u00caTE\n\u248d #hfxtraffic\n\u248e Zone 1\n\u248f Renfrew\n\u2490 #nbstorm\n\u2491 Parry Sound\u2026 https://t.co/bEcbONRdOy",
+                "created_at": "Tue Jan 23 12:20:10 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8048,
+                    21.0285
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #AFCU23\n\u2489 Alaska\n\u248a #Tsunami\n\u248b Hugh Masekela\n\u248c #earthquake\n\u248d #WelshHappinessDay\n\u248e Cilic\n\u248f Nadal\n\u2490\u2026 https://t.co/s5hi77XbED",
+                "created_at": "Tue Jan 23 12:20:20 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.4289,
+                    18.2233
+                ]
+            },
+            "properties": {
+                "text": "\u2488 Bad Bunny\n\u2489 Alaska\n\u248a #tsunami\n\u248b Hugh Masekela\n\u248c Cilic\n\u248d #earthquake\n\u248e #WelshHappinessDay\n\u248f Nadal\n\u2490\u2026 https://t.co/5su8onIspD",
+                "created_at": "Tue Jan 23 12:20:21 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -166.527,
+                    53.889
+                ]
+            },
+            "properties": {
+                "text": "Tidal wave gin n\u2019 tonics taste the best #tsunami #alaska @ Unalaska, Alaska https://t.co/4cnep0Zhow",
+                "created_at": "Tue Jan 23 12:24:29 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4238386,
+                    34.3227567
+                ]
+            },
+            "properties": {
+                "text": "#BREAKING: #Kodiak, #Alaska, has been downgraded to a #tsunami advisory, following this morning's 7.9 magnitude\u2026 https://t.co/4LiSG3prs3",
+                "created_at": "Tue Jan 23 12:28:23 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.84293,
+                    36.60168
+                ]
+            },
+            "properties": {
+                "text": "Tsunami zones monterey seaside marina #tsunami #montereybay #montereypeninsularealestate\u2026 https://t.co/1eUvvL7JEg",
+                "created_at": "Tue Jan 23 12:28:49 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Tsunami\n\u2489 Kodiak\n\u248a Nadal\n\u248b Hugh Masekela\n\u248c #WEF18\n\u248d #NationalPieDay\n\u248e #WhenTheMeetingGoesTooLong\n\u248f Magnitude 8.2\u2026 https://t.co/Ms9id9Qpxm",
+                "created_at": "Tue Jan 23 12:40:09 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.309,
+                    56.9547
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #tsunami\n\u2489 Alaska\n\u248a Commission\n\u248b #otttraffic\n\u248c Tofino\n\u248d #TEMP\u00caTE\n\u248e #nbstorm\n\u248f #hfxtraffic\n\u2490 Zone 1\n\u2491 Renfrew\n\n201\u2026 https://t.co/FGGcp0gSI1",
+                "created_at": "Tue Jan 23 12:40:10 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.893,
+                    47.0424
+                ]
+            },
+            "properties": {
+                "text": "ACCA-EXCUSE #TSUNAMI!!?\n\ud83c\udf0a\n\ud83c\udf0a\ud83c\udf0a\n\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83d\ude31\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n\n#Jesustakethewheel @ Olympia, Washington https://t.co/BkCJ3b5Kqw",
+                "created_at": "Tue Jan 23 12:45:15 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Tsunami\n\u2489 Kodiak\n\u248a Hugh Masekela\n\u248b Nadal\n\u248c #NationalPieDay\n\u248d #WEF18\n\u248e #WhenTheMeetingGoesTooLong\n\u248f Magnitude 8.2\u2026 https://t.co/Q0rZwfMTQG",
+                "created_at": "Tue Jan 23 13:00:39 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.309,
+                    56.9547
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #tsunami\n\u2489 Commission\n\u248a #otttraffic\n\u248b #TEMP\u00caTE\n\u248c #verglas\n\u248d #hfxtraffic\n\u248e Tofino\n\u248f Zone 1\n\u2490 Renfrew\n\u2491 Parry Sound\u2026 https://t.co/G7QoR6A7FZ",
+                "created_at": "Tue Jan 23 13:00:40 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.72972051,
+                    36.48863024
+                ]
+            },
+            "properties": {
+                "text": "#tsunami warning @ California https://t.co/oUKg6FUKK9",
+                "created_at": "Tue Jan 23 13:03:49 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #Tsunami\n\u2489 Hugh Masekela\n\u248a Kodiak\n\u248b #NationalPieDay\n\u248c #OscarNoms\n\u248d Nadal\n\u248e #WEF18\n\u248f #TuesdayMotivation\n\u2490 Magnitud\u2026 https://t.co/fuWPi2LOeo",
+                "created_at": "Tue Jan 23 13:20:10 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.309,
+                    56.9547
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #tsunami\n\u2489 Alaska\n\u248a #OscarNoms\n\u248b Trans-Pacific Partnership\n\u248c Commission\n\u248d #otttraffic\n\u248e #verglas\n\u248f #FreezingRain\u2026 https://t.co/5uKhfRCgC2",
+                "created_at": "Tue Jan 23 13:20:10 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #OscarNoms\n\u2489 #Tsunami\n\u248a Hugh Masekela\n\u248b #NationalPieDay\n\u248c Kodiak\n\u248d #WEF18\n\u248e Tony Perkins\n\u248f #TuesdayMotivation\n\u2490 N\u2026 https://t.co/W2UcE2OBdJ",
+                "created_at": "Tue Jan 23 13:40:10 +0000 2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.309,
+                    56.9547
+                ]
+            },
+            "properties": {
+                "text": "\u2488 #OscarNoms\n\u2489 #tsunami\n\u248a Alaska\n\u248b British Columbia\n\u248c #verglas\n\u248d Commission\n\u248e #otttraffic\n\u248f #FreezingRain\n\u2490 Zone 1\u2026 https://t.co/GWc09U7Q4Y",
+                "created_at": "Tue Jan 23 13:40:10 +0000 2018"
+            }
+        }
+    ]
+}
